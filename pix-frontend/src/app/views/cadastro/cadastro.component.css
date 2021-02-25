@@ -1,0 +1,25 @@
+.form{
+    padding: 30px;
+}
+
+i{
+    vertical-align: middle;
+}
+
+.half-width{
+    width: 50%;
+}
+
+.quarter-width{
+    width: 25%;
+}
+
+#btnSalvar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    margin: 15px;
+}
